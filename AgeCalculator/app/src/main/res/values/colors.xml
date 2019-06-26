@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorNormalButton">#CC0606</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorTextColor">#131313</color>
+    <color name="colorHintTextColor">#9B9898</color>
+    <color name="colorbackgorudCardView">#B6B3B3</color>
+    <color name="colorTextViewBackgroudColor">#D7F2F3EA</color>
+    <color name="colorTextViewLabel">#1AE705</color>
+
+</resources>
